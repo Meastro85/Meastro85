@@ -47,9 +47,11 @@ Some of the projects I've worked on are:
             <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Java" alt="Java" style="margin-right: 10px;" height="26px" src="./icons/Java.png" />
             </a>
+            <!-- | Java -->
             <a href="https://go.dev/doc" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Go" alt="Go" style="margin-right: 10px;" height="26px" src="./icons/Golang.png" />
             </a>
+            <!-- | Go -->
         </td>
     </tr>
     <tr>
@@ -58,21 +60,27 @@ Some of the projects I've worked on are:
             <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="React" alt="React" style="margin-right: 10px;" height="26px" src="./icons/React.png" />
             </a>
+            <!-- | React -->
             <a href="https://angular.dev/overview" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Angular" alt="Angular" style="margin-right: 10px;" height="26px" src="./icons/Angular.png" />
             </a>
+            <!-- | Angular -->
             <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Express" alt="Express" style="margin-right: 10px;" height="26px" src="./icons/express.png" />
             </a>
+            <!-- | Express.js -->
             <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title=".NET" alt="Dotnet" style="margin-right: 10px;" height="26px" src="./icons/dotnet.png" />
             </a>
+            <!-- | .NET -->
             <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Spring" alt="Spring" style="margin-right: 10px;" height="26px" src="./icons/Spring.png" />
             </a>
+            <!-- | Spring -->
             <a href="https://gin-gonic.com/docs/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title="Gin" alt="Gin" style="margin-right: 10px;" height="26px" src="./icons/Gin.png" />
             </a>
+            <!-- | Gin -->
         </td>
     </tr>
 </table>
