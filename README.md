@@ -11,10 +11,10 @@ I'm a software developer passionate about backend development,
 
 ### 🗂️ Projects
 Some of the projects I've worked on are:
-- <img align="left" alt="Golem Logo" width="25px" src="./icons/Golem.png" style="margin-right: 3px" />[Golem](https://github.com/Meastro85/Golem): A semantic kernel built in Go
+- <img src="./icons/Golem.png" alt="Golem" width="25" valign="middle"> **[Golem](https://github.com/Meastro85/Golem)** – A semantic kernel built in Go
 
-- [Jump](https://github.com/Meastro85/Jump): An attribute based DI framework for .NET
-- <img align="left" alt="Golem Logo" style="margin-right: 3px" width="25px" src="https://raw.githubusercontent.com/EliasDeHondt/K10s/refs/heads/main/Assets/logo.png"/> [K10s](https://github.com/EliasDeHondt/K10s): A web UI for managing K8s clusters
+- **[Jump](https://github.com/Meastro85/Jump)** – An attribute-based DI framework for .NET
+- <img src="https://raw.githubusercontent.com/EliasDeHondt/K10s/refs/heads/main/Assets/logo.png" alt="K10s" width="25" valign="middle"> **[K10s](https://github.com/EliasDeHondt/K10s)** – A web UI for managing Kubernetes clusters
 
 ### 🔗 Connect with me!
 
