@@ -1,24 +1,30 @@
 # Hi there, I'm Vincent Verboven 👋
 
-## About me
+- 🎓 Bachelor's in Applied Computer Science
+- 📍 Belgium, Antwerp
+- 💻 Junior Software Engineer
 
-- 📚 Full stack developer, preferring backend
-- 🔬 Love to learn new things
-- 🎧 Listen to music all the time
-- 🏢 Currently working on building a company
+## 📖 About me
 
-### Projects
+I'm a software developer passionate about backend development,
+.NET, Java, Go and cloud technologies. I love listening to music, playing games and working on personal projects in my free time.
+
+### 🗂️ Projects
 Some of the projects I've worked on are:
-- [Jump](https://github.com/Meastro85/Jump): An attribute based DI framework for .NET
-- [K10s](https://github.com/EliasDeHondt/K10s): A web UI for managing K8s clusters
+- <img align="left" alt="Golem Logo" width="25px" src="./icons/Golem.png" style="margin-right: 3px" />[Golem](https://github.com/Meastro85/Golem): A semantic kernel built in Go
 
-### Connect with me!
+- [Jump](https://github.com/Meastro85/Jump): An attribute based DI framework for .NET
+- <img align="left" alt="Golem Logo" style="margin-right: 3px" width="25px" src="https://raw.githubusercontent.com/EliasDeHondt/K10s/refs/heads/main/Assets/logo.png"/> [K10s](https://github.com/EliasDeHondt/K10s): A web UI for managing K8s clusters
+
+### 🔗 Connect with me!
 
 [<img align="left" alt="Vincent Verboven | LinkedIn" width="25px" src="./icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Email" width="25px" src="./icons/email-icon.svg" style="margin-left: 15px" />][email]
+
 <br />
 
-### Tools and skills
+### 🛠️ Tools and skills
 
 <table style="border: 1px solid #ddd; border-collapse: collapse; padding: 8px;">
     <tr>
@@ -65,10 +71,6 @@ Some of the projects I've worked on are:
                 <img align="left" title="Angular" alt="Angular" style="margin-right: 10px;" height="26px" src="./icons/Angular.png" />
             </a>
             <!-- | Angular -->
-            <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-                <img align="left" title="Express" alt="Express" style="margin-right: 10px;" height="26px" src="./icons/express.png" />
-            </a>
-            <!-- | Express.js -->
             <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank" rel="noopener noreferrer">
                 <img align="left" title=".NET" alt="Dotnet" style="margin-right: 10px;" height="26px" src="./icons/dotnet.png" />
             </a>
@@ -86,3 +88,4 @@ Some of the projects I've worked on are:
 </table>
 
 [linkedin]: https://www.linkedin.com/in/vincent-verboven/
+[email]: mailto:vincent.verboven85@gmail.com
